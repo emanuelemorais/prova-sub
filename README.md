@@ -20,7 +20,7 @@ go run greenhouse-main.go
 go run subscriber.go
 ```
 
-Após seguir esses passos espera-se das informações no seguinte modelo:
+Após seguir esses passos espera-se que o output das informações seja seguinte modelo:
 
 `<identificado da estufa> : <identificador do sensor> | <valor de umidade> %  Umidade <possível alerta>`
 
